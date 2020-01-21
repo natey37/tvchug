@@ -6,3 +6,5 @@ gem "pry"
 gem "require_all"
 gem 'activerecord', require: 'active_record'
 gem 'sinatra-activerecord'   
+gem 'tty-prompt'
+gem 'rest-client'
